@@ -1,0 +1,35 @@
+.main body{
+    background: white;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background: lightslategray;
+    
+}
+.left-section{
+    width: 20%;
+    height: 600px;
+    float: left;
+    background: silver
+    
+}
+.right-section{
+    width: 80%;
+    height: 400px;
+    float: left;
+    background: rgb(112, 183, 218);
+}
+.footer{
+    width: 100%;
+    background:lightslategrey;
+    height: 100px;
+}
+.content{
+    height: 400px;
+    height: 400px;
+}
+body{
+    margin: 0;
+    
+}
